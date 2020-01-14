@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24ad9330-29d6-43ec-a1d0-9c33949ca926" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Un5Wfwvn30Vvfaf6vLtugLU8H7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Progressbar (Василий)\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Progressbar (Василий)\images" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24ad9330-29d6-43ec-a1d0-9c33949ca926" name="Default Changelist" comment="" />
+      <created>1575979551563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575979551563</updated>
+      <workItem from="1575979552742" duration="5447000" />
+      <workItem from="1576069208414" duration="3663000" />
+      <workItem from="1577345420237" duration="3720000" />
+      <workItem from="1578574036488" duration="3840000" />
+      <workItem from="1578659153787" duration="8199000" />
+      <workItem from="1578669321473" duration="254000" />
+      <workItem from="1578669841550" duration="895000" />
+      <workItem from="1578765312494" duration="128000" />
+      <workItem from="1578766075646" duration="90000" />
+      <workItem from="1578766220720" duration="362000" />
+      <workItem from="1578766708288" duration="522000" />
+      <workItem from="1578814363656" duration="4419000" />
+      <workItem from="1578907337029" duration="6150000" />
+      <workItem from="1578998860601" duration="5785000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1578816878210">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578816878210" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1578998868163">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578998868163" />
+    <state x="513" y="155" key="svn.repositoryBrowser" timestamp="1578669709222">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="155" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1578669709222" />
+  </component>
+</project>
