@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24ad9330-29d6-43ec-a1d0-9c33949ca926" name="Default Changelist" comment="" />
+    <list default="true" id="24ad9330-29d6-43ec-a1d0-9c33949ca926" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JS/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +23,15 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Un5Wfwvn30Vvfaf6vLtugLU8H7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,16 +40,18 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Progressbar (Василий)\JS" />
+      <recent name="F:\Progressbar (Василий)\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Progressbar (Василий)\images" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Progressbar (Василий)\images" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -77,21 +90,38 @@
       <workItem from="1578814363656" duration="4419000" />
       <workItem from="1578907337029" duration="6150000" />
       <workItem from="1578998860601" duration="5785000" />
+      <workItem from="1579074443305" duration="263000" />
+      <workItem from="1579280213984" duration="5642000" />
+      <workItem from="1579286110183" duration="17000" />
+      <workItem from="1579867208274" duration="3935000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1578816878210">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1579074705946">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578816878210" />
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1578998868163">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579074705946" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1579074444168">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578998868163" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579074444168" />
     <state x="513" y="155" key="svn.repositoryBrowser" timestamp="1578669709222">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

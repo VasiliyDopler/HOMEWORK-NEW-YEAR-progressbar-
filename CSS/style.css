@@ -299,6 +299,8 @@ header nav ul li:hover a, header nav ul li.active a {
     padding: 185px 0 60px;
     background-color: #10c9c3;
     text-align: center;
+    position: relative;
+
 }
 .conteiner3 p{
     font-size: 24px;
@@ -384,4 +386,118 @@ footer ul:after{
     display: block;
     clear: both;
     content: "";
+}
+.owl-dots .owl-dot span{
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    margin: 0 5px;
+    background-color: white;
+
+}
+.owl-dots{
+    position: absolute;
+    width: 100%;
+    bottom: 30px;
+}
+.owl-dots .owl-dot.active span{
+    width: 13px;
+    height: 13px;
+    position: relative;
+    top: 2px;
+}
+.owl-dot{
+    outline: none;
+}
+.ui-dialog {
+    max-width: 750px !important;
+    width: 100% !important;
+    padding: 0;
+}
+.ui-dialog .ui-resizable-n{
+    height: 0px;
+}
+.ui-dialog .ui-resizable-e {
+    width: 0px;
+    right: 0;
+}
+.ui-dialog .ui-resizable-s {
+    height: 0px;
+    bottom: 0;
+}
+.ui-dialog .ui-resizable-w {
+    width: 0px;
+    left: 0;
+}
+.ui-dialog .ui-dialog-titlebar{
+    padding: 0;
+    text-align: center;
+}
+.ui-widget-header {
+    border: none;
+    background: black;
+    color: white;
+    font-size: 24px;
+    padding-top: 42px;
+    padding-bottom: 42px;
+}
+.ui-widget.ui-widget-content {
+    border: none;
+}
+.ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr {
+    border-top-right-radius: 0px;
+}
+.ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr {
+    border-top-left-radius: 0px;
+}
+.ui-dialog .ui-dialog-content {
+    position: relative;
+    border: 0;
+    padding: 0;
+    background: #fbfbfb;
+    overflow: auto;
+}
+.ui-dialog .ui-dialog-titlebar {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.email{
+    height: 60px;
+    max-width: 385px;
+    width: 100%;
+    margin-bottom: 40px;
+    display: block;
+    float: right;
+
+
+
+}
+.face123:before {
+    content: "\f39e";
+    color: white;
+    font-size: 25px;
+
+}
+label{
+
+    color: #363636;
+    font-size: 22px;
+
+}
+.cont123:after{
+    content: "";
+    display: inline-block;
+    clear: both;
+}
+#opener{
+    background-color: #557bcd !important;
+    position: fixed;
+    top: 50px;
+    right: 20px;
+    height: 30px;
+    width: 30px;
+    border: none;
+    color: white;
 }
